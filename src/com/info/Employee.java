@@ -18,6 +18,8 @@ public class Employee {
 		System.out.println("Employee City = "+city);
 		boolean result = true;
 		System.out.println("All above Information are "+result);
+		String name1="Kavya";
+		System.out.println("New Name Added"+name1);
 		
 		
 	}
