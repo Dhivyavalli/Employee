@@ -17,9 +17,9 @@ public class Employee {
 		String city = "Chennai";
 		System.out.println("Employee City = "+city);
 		boolean result = true;
-		System.out.println("All above Information are "+result);
-		
-		
-	}
+		System.out.println("All above Information are "+result);	
+		int a=10;
+		System.out.println("Interger value"+a);
+			}
 }
 
